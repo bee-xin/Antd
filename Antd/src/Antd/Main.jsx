@@ -1,4 +1,4 @@
-import { Button, Form, Input, Radio } from "antd";
+/* import { Button, Form, Input, Radio } from "antd";
 import { useState } from "react";
 import "./Main.css";
 function Main() {
@@ -34,3 +34,4 @@ function Main() {
 }
 
 export default Main;
+ */
