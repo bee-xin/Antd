@@ -1,0 +1,14 @@
+.style{
+    width:10rem;
+  }
+  .whole{
+    display:flex;
+    flex-direction:column;
+    width:200px;
+    padding:4px;
+    border:2px solid black;
+    margin: left 600px;
+    }
+    .result{
+      margin-top:20px;
+    }
